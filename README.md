@@ -110,3 +110,8 @@
 ## Язык 😛
 
 * [Черногорский vs сербский](https://t.me/montenegro_porez/10949)
+
+## Я – бот 🤖
+* [База знаний](https://github.com/someawe/awesome-urls-me/)
+* [Исходники](https://github.com/b3b/znamotobot)
+* PR's are welcome!

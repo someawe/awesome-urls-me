@@ -65,17 +65,17 @@
 
 ## Словарик 😛
 
-* Клавиатура: *tastatura*
-* Мышь: *miš*, *miševi*
-* Наушники: *slušalice*
-* Небольшая порция:  *mala porcija*
-* Еда на вынос: *za poneti*
-* Курица: *piletina*
-  В культурном обществе "курица" не произносят - ругательство
-* Всё (хватит): *to i to*  
-* Не знаю: *ne znam*
-* Это 👉: *ovo*
-* Полако: *polako*
+* Клавиатура:  <span class="tg-spoiler">*tastatura*</span>
+* Мышь:  <span class="tg-spoiler">*miš*, *miševi*</span>
+* Наушники:  <span class="tg-spoiler">*slušalice*</span>
+* Небольшая порция:   <span class="tg-spoiler">*mala porcija*</span>
+* Еда на вынос:  <span class="tg-spoiler">*za poneti*</span>
+* Курица:  <span class="tg-spoiler">*piletina*
+  В культурном обществе "курица" не произносят - ругательство</span>
+* Всё (хватит):  <span class="tg-spoiler">*to i to*  </span>
+* Не знаю:  <span class="tg-spoiler">*ne znam*</span>
+* Это 👉:  <span class="tg-spoiler">*ovo*</span>
+* Полако:  <span class="tg-spoiler">*polako*</span>
 
 ## Транспорт 🚆
 

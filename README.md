@@ -67,7 +67,7 @@
 * [FAQ от Cергея Петрова](https://t.me/montenergo_it/25043)
 * [Wiki Монтелиберо](https://monte.wiki/ru/%D0%9F%D0%B5%D1%80%D0%B5%D0%B5%D0%B7%D0%B4)
 
-## Работа
+## Работа 🚣
 
 * [Montenegro IT Jobs](https://t.me/montenegro_it_jobs)
 
